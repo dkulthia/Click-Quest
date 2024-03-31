@@ -1,0 +1,23 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.random-position {
+    position: absolute;
+    left: 50%; 
+    top: 50%; 
+    transform: translate(-50%, -50%);
+    transition: all 0.3s ease;
+    border: 2px solid black;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
