@@ -1,7 +1,5 @@
 # 🖱️ Click Quest 🏃‍♂️
 
-Welcome to Click Quest, the ultimate test of your clicking prowess! Can you catch the elusive button as it dashes around the screen? Let's find out!
-
 Click Quest is an engaging and dynamic browser-based game that challenges players to test their clicking skills in a fun and interactive way. The game interface consists of a single button, aptly named the "Click Me if you can.." button. The objective of the game is simple: players must click on the moving button..
 
 ### 🎮 How to Play
