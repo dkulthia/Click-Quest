@@ -12,7 +12,7 @@ Click Quest is an engaging and dynamic browser-based game that challenges player
 - **Score Tracking**: Keep track of your points and aim for a high score.
 
 ### 🚀 Getting Started
-1. Open [Click Quest](https://darshkul24.github.io/Click-Quest/) in your web browser.
+1. Open [Click Quest](https://dkulthia.github.io/Click-Quest/) in your web browser.
 2. Start clicking and enjoy the challenge!
 
 ### 🎨 Customize
